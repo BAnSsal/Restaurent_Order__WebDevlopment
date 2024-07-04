@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dosa",
+    "category": "Indian",
+    "ingredients": ["Rice flour", "Lentils", "Salt"],
+    "price": 100,
+    "img": "dosaImg",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "category": "Italian",
+    "ingredients": ["Dough", "Tomato sauce", "Cheese", "Toppings"],
+    "price": 100,
+    "img": "pizzaImg",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Manchurian",
+    "category": "Chinese",
+    "ingredients": ["Cabbage", "Carrot", "Soy sauce", "Corn flour"],
+    "price": 100,
+    "img": "pizzaImg",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Pav Bhaji",
+    "category": "Indian",
+    "ingredients": ["Potatoes", "Tomatoes", "Onions", "Peas"],
+    "price": 100,
+    "img": "pizzaImg",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Pasta",
+    "category": "Italian",
+    "ingredients": ["Pasta", "Tomato sauce", "Cheese", "Herbs"],
+    "price": 100,
+    "img": "pizzaImg",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Spring Rolls",
+    "category": "Chinese",
+    "ingredients": ["Cabbage", "Carrots", "Spring roll wrappers", "Soy sauce"],
+    "price": 100,
+    "img": "pizzaImg",
+    "quantity": 1
+  }
+]
