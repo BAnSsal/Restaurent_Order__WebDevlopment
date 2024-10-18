@@ -70,16 +70,16 @@ This project is a web application designed to manage orders in a restaurant sett
 ## Screenshots
 
 ### Login Page
-![Login Page](./media/login-page.png)
+![Login Page](./media/login.jpg)
 
 ### Menu Display
-![Menu](./media/menu-display.png)
+![Menu](./media/menu.jpg)
 
 ### Place an Order
-![Place Order](./media/place-order.png)
+![Place Order](./media/Foodcart.jpg)
 
 ### Order History
-![Order History](./media/order-history.png)
+![Order History](./media/orderhistory.jpg)
 
 *Note: Replace the image paths (`./media/...`) with the correct paths where you have saved your images.*
 
