@@ -81,8 +81,6 @@ This project is a web application designed to manage orders in a restaurant sett
 ### Order History
 ![Order History](./media/orderhistory.jpg)
 
-*Note: Replace the image paths (`./media/...`) with the correct paths where you have saved your images.*
-
 ## Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
