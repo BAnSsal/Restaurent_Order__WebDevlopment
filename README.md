@@ -1,4 +1,4 @@
-Sure, here's a simplified version of a `README.md` file for your restaurant project:
+Here's a revised `README.md` that includes a section to showcase the working of your project using photos:
 
 ---
 
@@ -18,7 +18,6 @@ This project is a web application designed to manage orders in a restaurant sett
 - **Frontend:** React.js, Material-UI
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
-- **Deployment:** Vercel (frontend), Heroku (backend)
 
 ## Getting Started
 
@@ -68,6 +67,22 @@ This project is a web application designed to manage orders in a restaurant sett
    - Frontend: `http://localhost:3000`
    - Backend: `http://localhost:5000`
 
+## Screenshots
+
+### Login Page
+![Login Page](./media/login-page.png)
+
+### Menu Display
+![Menu](./media/menu-display.png)
+
+### Place an Order
+![Place Order](./media/place-order.png)
+
+### Order History
+![Order History](./media/order-history.png)
+
+*Note: Replace the image paths (`./media/...`) with the correct paths where you have saved your images.*
+
 ## Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
@@ -78,4 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-Adjust the URLs, paths, and details based on your actual project setup and requirements. This version provides a concise overview tailored to a restaurant order management system.
+This version includes a "Screenshots" section at the end to show the application's interface. Make sure to upload the images to your repository and update the file paths accordingly.
